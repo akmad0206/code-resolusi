@@ -1,3 +1,5 @@
 rencana
 - 1
+*ui/ux
+*content creator
 - 2
